@@ -1,0 +1,23 @@
+{
+  "name": "asynclibary",
+  "version": "0.0.1",
+  "description": "A Async to Provide Realtime Updates",
+  "main": "dist/async.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChaseKnowlden/asynclibrary.git"
+  },
+  "keywords": [
+    "lodash",
+    "npm"
+  ],
+  "author": "Chase K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChaseKnowlden/asynclibrary/issues"
+  },
+  "homepage": "https://github.com/ChaseKnowlden/asynclibrary#readme"
+}
